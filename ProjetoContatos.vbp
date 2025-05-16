@@ -1,0 +1,3 @@
+Type=Exe
+Form=frmMain.frm
+Startup="frmMain"
